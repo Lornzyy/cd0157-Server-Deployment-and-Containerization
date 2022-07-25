@@ -18,14 +18,17 @@ docs/_build/
 __pycache__
 .env_file
 
+
 # Coverage reports
 htmlcov/
 .coverage
 .coverage.*
 *,cover
+.debug.log
 
 # Direnv
 .envrc
 .direnv
 
 .github/**
+.debug.log
